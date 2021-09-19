@@ -1,8 +1,19 @@
-<JSON_FILE_NAME>:
-  auth: "<AUTH_KEY>"
-  name: "<BOT_NAME>"
-  id: "<BOT_ID>"
-<JSON_FILE_NAME>:
-  auth: "<AUTH_KEY>"
-  name: "<BOT_NAME>"
-  id: "<BOT_ID>"
+commands_url: "<YOUR_BLIP_COMMANDS_URL>"
+destionation_folder: "<DESTINATION_FOLDER>"
+chatbots:
+  <JSON_FILE_NAME>:
+    auth: "<AUTH_KEY>"
+    name: "<BOT_NAME>"
+    id: "<BOT_ID>"
+  <JSON_FILE_NAME>:
+    auth: "<AUTH_KEY>"
+    name: "<BOT_NAME>"
+    id: "<BOT_ID>"
+  <JSON_FILE_NAME>:
+    auth: "<AUTH_KEY>"
+    name: "<BOT_NAME>"
+    id: "<BOT_ID>"
+  <JSON_FILE_NAME>:
+    auth: "<AUTH_KEY>"
+    name: "<BOT_NAME>"
+    id: "<BOT_ID>"
